@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/TasteHubFrondEnd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TasteHubFrondEnd/node_modules/cat-food-frond-end" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TasteHubFrondEnd/node_modules/taste-hub-frond-end" vcs="Git" />
+  </component>
+</project>
