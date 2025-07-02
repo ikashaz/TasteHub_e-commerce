@@ -61,3 +61,8 @@ frontend/      --> Angular client (TasteHub UI)
 backend/       --> Spring Boot REST API
 database/      --> MySQL schema & seed data
 postman/       --> Collection for API testing
+
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/8gh8Zgq8oRI/maxresdefault.jpg)](https://youtu.be/8gh8Zgq8oRI)
+
